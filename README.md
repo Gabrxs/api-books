@@ -22,3 +22,9 @@ Este projeto é uma aplicação voltada para o gerenciamento de livros através 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/API-Books.git
+
+npm install
+
+npm start
+
+http://localhost:3000
