@@ -1,0 +1,14 @@
+Código	Descrição
+RF01	O sistema deve permitir o cadastro de livros com título, autor, ano e categoria.
+RF02	O sistema deve listar todos os livros cadastrados.
+RF03	O sistema deve permitir a busca de livros por título, autor ou categoria.
+RF04	O sistema deve permitir a atualização dos dados de um livro.
+RF05	O sistema deve permitir a exclusão de um livro.
+
+Requisitos Não Funcionais (RNF)
+Código	Descrição
+RNF01	O sistema deve ser acessado através de uma API REST.
+RNF02	A API deve retornar respostas em formato JSON.
+RNF03	O sistema deve apresentar tempo de resposta inferior a 2 segundos para requisições comuns.
+RNF04	A aplicação deve utilizar autenticação básica para acesso às rotas protegidas (em caso de expansão futura).
+RNF05	O sistema deve armazenar os dados em um banco de dados não relacional (MongoDB).
