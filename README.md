@@ -28,3 +28,7 @@ npm install
 npm start
 
 http://localhost:3000
+
+## 📄 Documentação
+Todos os documentos estão neste PDF (baixe clicando abaixo):
+[📘 Clique aqui para baixar a documentação](./API_Books_Projeto.pdf)
