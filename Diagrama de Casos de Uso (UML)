@@ -1,0 +1,30 @@
+Atores:
+
+Usuário
+
+Administrador
+
+Casos de Uso:
+
+Cadastrar Livro
+
+Consultar Livro
+
+Atualizar Livro
+
+Excluir Livro
+
+
+        +----------------+
+        |    Usuário     |
+        +----------------+
+           |         |
+           |         |
+        (Consultar) (Cadastrar, Atualizar, Excluir)
+           |
+        +----------------+
+        |   API Books    |
+        +----------------+
+
+
+
