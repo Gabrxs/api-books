@@ -1,0 +1,14 @@
++----------------+
+|     Livro      |
++----------------+
+| - id           |
+| - titulo       |
+| - autor        |
+| - ano          |
+| - categoria    |
++----------------+
+| +cadastrar()   |
+| +consultar()   |
+| +atualizar()   |
+| +excluir()     |
++----------------+
